@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on indie game projects<br>🌱 I’m currently learning Azure DevOps<br>⚡ Fun fact, I also make music!
+👋I am a System Engineer at Undead Labs - Xbox Studios<br>🔭 I’m currently working on indie game projects<br>🌱 I’m currently learning Azure DevOps<br>⚡ Fun fact, I also make music!
 
 
 ## 🌐 Socials:
